@@ -1,0 +1,48 @@
+#EXTINF:-1 tvg-logo="https://alkhabaraljadid.com/wp-content/uploads/2023/12/2275186_0.jpeg" group-title="SSC SPORT", Bola AFC 2 
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1002800&extension=ts 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", BEIN ASIAN CUP 2 
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1422124&extension=ts 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", BEIN ASIAN CUP 3 
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1422127&extension=ts 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", ALKASS 1 
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:D4:5B:E2&stream=152170_&extension=ts&play_token=nYXu66mFaW 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", ABU DHABI SPORT 1 ASIA 
+http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=329205&extension=ts&play_token=xitvItgdEJ 
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",RCTI 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI 
+http://103.113.116.150:25461/mtm1/12345/5 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV 
+http://103.113.116.150:25461/mtm1/12345/6 
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",MNCTV 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV 
+http://103.113.116.150:25461/mtm1/12345/7 
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",GTV 
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS 
+http://103.113.116.150:25461/mtm1/12345/8 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI 
+http://103.113.116.150:25461/mtm1/12345/15 
+#EXTINF:-1 group-title="Lokal",NET 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV 
+http://103.113.116.150:25461/mtm1/12345/25 
+#EXTINF:-1 group-title="Lokal",OK TV 
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704427&extension=ts&play_token=GLmrpue5Ej 
+#EXTINF:-1 group-title="Lokal",ANIMAX 
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704484&extension=ts&play_token=eIQc7lrkbZ 
+#EXTINF:-1 group-title="Lokal",ANTV 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8 
+#EXTINF:-1 tvg-id="KOMPAS.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png""group-title="Lokal",KOMPAS 
+http://103.113.116.150:25461/mtm1/12345/13 
+#EXTINF:-1 tvg-id="METRO.id" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png""group-title="Lokal",METRO 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8 
+#EXTINF:-1 tvg-id="MAGNA CHANEL.id" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png""group-title="Lokal",MAGNA CHANEL 
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="NUSANTARA TV.id" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png""group-title="Lokal",NUSANTARA TV 
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8 
+#EXTINF:-1 tvg-id="TV ONE.id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/7.jpg""group-title="Lokal",TV ONE 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8 
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13""group-title="Lokal",RTV 
+http://103.113.116.150:25461/mtm1/12345/14
