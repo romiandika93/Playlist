@@ -114,7 +114,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8 
 #EXTINF:0 tvg-id="outdoor" group-title="MOVIES",My Family Cinema 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8 
 #EXTINF:-1 group-title="Lokal",GARUDA TV 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8 
@@ -138,9 +137,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 #EXTINF:-1 group-title="MOVIES",HITS 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/ 
+#KODIPROP:inputstream.adaptive.license_key=
+https://aqfadtv.xyz/clearkey/dash-ck/linear/711/ 
 #EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey 
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2 
 http://103.113.116.150:25461/mtm1/12345/48 
 #EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3 
