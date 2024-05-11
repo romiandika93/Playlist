@@ -1,14 +1,7 @@
-#EXTINF:-1 group-title="" tvg-logo="", INDONESIA VS GUINEA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
-http://888.iptv543.com/Smartv.php?id=Rcti
-
+#EXTM3U
 #EXTINF:-1 group-title="" tvg-logo="", INDO VS GUNIEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="", INDO VS GUNIEA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tesss-4db0bc1d8352.herokuapp.com/fifa/drm.php?id=4be0c8de-7fd6-4f75-bdf8-e2ab2f8d6130
 
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="Lokal",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
@@ -415,6 +408,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
 #EXTINF:-1 group-title="Sport",POKER TV
 https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC2400019EF" tvg-id="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20230125T022558SQUARE.png_20230125022558.png" tvg-chno="1398" group-title="KIDS" , ZooMoo
+https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20231229T003203SQUARE.png_20231229003205.png" tvg-chno="1394" group-title="KIDS" , Rainbow Ruby
+https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+
+#EXTINF:-1 channel-id="pluto-6452c77ed3fdde00080eb3a8" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" tvg-chno="3710" group-title="KIDS" , Zoom! Zoom!
+https://r.mjh.nz/PlutoTV/6452c77ed3fdde00080eb3a8-alt.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300017XB" tvg-id="USBD3300017XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300017XB_20231024T231743SQUARE.png_20231024231744.png" tvg-chno="1397" group-title="KIDS" , Sensical Makers
+https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20230627T214924SQUARE.png_20230627214925.png" tvg-chno="1395" group-title="KIDS" , Kidoodle.TV
+https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network Southeast Asia 
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
