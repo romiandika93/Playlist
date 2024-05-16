@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-logo="", INDO VS GUNIEA
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVEN",MOTO GP
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298570
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="", INDO VS GUNIEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
 
@@ -11,17 +15,20 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTVLCOPT:http-referrer=Isi_Refferer_Name#tag
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1149663930_b344100_sleng.m3u8
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
+#EXTINF:0 group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
+#EXTINF:0 group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
 http://210.210.155.37/uq2663/h/h207/01.m3u8
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
+#EXTINF:0 group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
 http://210.210.155.37/uq2663/h/h223/01.m3u8
 
 #EXTINF:-1 group-title="Lokal",MOJI
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="Lokal",MOJI VOLLY
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
 
 #EXTINF:0 group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", Dens Play
 http://210.210.155.37/uq2663/h/h246/01.m3u8
@@ -33,7 +40,7 @@ http://210.210.155.37/uq2663/h/h201/01.m3u8
 #EXTINF:-1 group-title="Lokal",ANIMAX
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/35
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", ANTV
+#EXTINF:0 group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", ANTV
 http://210.210.155.37/uq2663/h/h235/01.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Lokal",Garuda TV
@@ -66,14 +73,26 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="Lokal",RCTI
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/13
 
+#EXTINF:-1 tvg-id="RCTI HD.id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="Lokal",RCTI 2
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157591
+
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="Lokal",MNC TV
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/10
+
+#EXTINF:-1 tvg-id="MNCTV HD.id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="Lokal",MNC TV 2
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165054
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="Lokal",GTV
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/11
 
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="Lokal",GTV 2
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298535
+
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="Lokal",iNews
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/12
+
+#EXTINF:-1 tvg-id="iNews HD.id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="Lokal",iNews 2
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157579
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/batamtv.png" group-title="Lokal",Batam TV
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
@@ -200,12 +219,6 @@ http://210.210.155.37/uq2663/h/h240/index.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Movies",Kix
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 
-#EXTINF:-1 group-title="Movies",HIT MOVIE
-http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
-
-#EXTINF:-1 group-title="Movies",HITS
-http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
-
 #EXTINF:-1 tvg-id="Celestial Movie.id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/99.jpg""group-title="Movies",Celestial Movie
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 
@@ -257,6 +270,21 @@ http://210.210.155.37/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jMAZXvKphwDe7ioPLCihzRVvm5VHt2oDlOqwQ14Aoc-A.png" group-title="Singapore",Channel U
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/138
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGVXJfajJIeE9lZ1BGUzB6ckpXdWpSazlWNU40ZUF6cFhYUWhWNUZiLVhidUY5T3JTc2l0Z2YzZHpEaVE0Wnh5Zi1HSlZkM3QyVmhNT1hKeWlGbWM2Wk5mVWJCV0MweDBJNVBEc2tWRkljaEEtUW5sSnVuOG9pQUM3VHp3Q1BkaE1kUVJSeXo0ZVZnNHEyTlB2SGItOWo0aWIyMG51V2VsbXRicVE2M29VNWpId2F2VlVEaDFmNzVGbTFER2RYOG1sb1h5SWIyNlljMkhOYmFqYmlPRnlCa3NXWU5CSjY0bGFlU1B0eHg5NHFuekE0Q2FrRkg0ak9WckV4VnpHRDZnS3kyYVFVeUFOSGpvVzRwanVUM1EzUmMyMFBlS3dWUDBuUTA3cXZKdUlYZnFaY0VOTS1jekxOVGlwYVkybFFpZFBPR0luUm1rRzhjd0V0cF85dGltdUk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRlVyX2oySHhPZWdQRlMwenJKV3VqUms5VjVONGVBenBYWFFoVjVGYi1YYnVGOU9yU3NpdGdmM2R6RGlRNFp4eWYtR0pWZDN0MlZoTU9YSnlpRm1jNlpOZlViQldDMHgwSTVQRHNrVkZJY2hBLVFubEp1bjhvaUFDN1R6d0NQZGhNZFFSUnl6NGVWZzRxMk5QdkhiLTlqNGliMjBudVdlbG10YnFRNjNvVTVqSHdhdlZVRGgxZjc1Rm0xREdkWDhtbG9YeUliMjZZYzJITmJhamJpT0Z5QmtzV1lOQko2NGxhZVNQdHh4OTRxbnpBNENha0ZINGpPVnJFeFZ6R0Q2Z0t5MmFRVXlBTkhqb1c0cGp1VDNRM1JjMjBQZUt3VlAwblEwN3F2SnVJWGZxWmNFTk0tY3pMTlRpcGFZMmxRaWRQT0dJblJta0c4Y3dFdHBfOXRpbXVJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=06kI4PIEBij6pT%2f1VMpDdVDROGg%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHX3AyRzBGelFkX1dsV3AtSnQ2ckpIQ2xuRmM4cm1sb2RQX1lHU3JwZ05DSFB1X1lyWHZxc3AyR2VmOWJONHBhYjNreEhTQjV0eWRnNDhCNmgtZnRRalNMZWZKQ3FOX3pVbl9zckRyUkVlQVJVQmx2cDRBU0FTU0JpWHBPTmxrTGk4RjgzU2xZcnFIaDBQeElCYk02NDVQWXJQcjU0Z0lBWGZoNi04TUR6NmU0SjUtd3JoSkNIcTc4STJoQnlOV0FnQ0ZBMlhCVjNmbjhpZ2JLVWdqMzNmLTA5NjlRT0RSS1VuTzh3QjhzN2VyY3ZKamprUE9NbHo4SHJSX0lYUlQtVGt1NE8tSDRnVWdxWU50WTBTdmkyekx2ZUJ4bGRpcUdCVzN6aWNmanM1LUtSVlNUQnlVV2w0MURJNHVnQTdnVHBhX1RjMi01eFhvdnJaa09zRk9RT1R5NkFKR2FIN3ZNeHVGTGJkTXhLQnMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHX3AyRzBGelFkX1dsV3AtSnQ2ckpIQ2xuRmM4cm1sb2RQX1lHU3JwZ05DSFB1X1lyWHZxc3AyR2VmOWJONHBhYjNreEhTQjV0eWRnNDhCNmgtZnRRalNMZWZKQ3FOX3pVbl9zckRyUkVlQVJVQmx2cDRBU0FTU0JpWHBPTmxrTGk4RjgzU2xZcnFIaDBQeElCYk02NDVQWXJQcjU0Z0lBWGZoNi04TUR6NmU0SjUtd3JoSkNIcTc4STJoQnlOV0FnQ0ZBMlhCVjNmbjhpZ2JLVWdqMzNmLTA5NjlRT0RSS1VuTzh3QjhzN2VyY3ZKamprUE9NbHo4SHJSX0lYUlQtVGt1NE8tSDRnVWdxWU50WTBTdmkyekx2ZUJ4bGRpcUdCVzN6aWNmanM1LUtSVlNUQnlVV2w0MURJNHVnQTdnVHBhX1RjMi01eFhvdnJaa09zRk9RT1R5NkFKR2FIN3ZNeHVGTGJkTXhLQnMiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=YXt39tYVrPwlsWuFGFwH8TH885s%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIenZUV1dMdGhBVE9rdWtPSEN0SU81aHZtbkRieVhTR2NmeFZoNXBXaTBjYWxBUzRlU2F5REc1SHU2cUctZGY5alBQSUpyQ3J2YzdONkgxajZXMkdncEFxeV9yazdnRUh0dnhOYnZWekN6MGU5VkVCSGEzcl85blRMWWt1WloyNjNNN1NOUzBkZ0dVWHphWU4yN0hoc2ZEM3Q2dlRnOXpzODZxYnBzdmhvQnN5dWJfREVvaFpPMjRyaW0wbXlicElDTnFGUUdsZVZzZmNkWWt6eEtGdUhYeks0azByZU4xT1NKdVR1VGtnUkxiTnd3YWl4OXZHU29lQnZMbGVMY0FWWWJGZWo3aWdiWFgtQVVVaXdHNTVSbmpLZGNzMlYwMl9HeGVTMm9JNzhiSyZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkh6dlRXV0x0aEFUT2t1a09IQ3RJTzVodm1uRGJ5WFNHY2Z4Vmg1cFdpMGNhbEFTNGVTYXlERzVIdTZxRy1kZjlqUFBJSnJDcnZjN042SDFqNlcyR2dwQXF5X3JrN2dFSHR2eE5idlZ6Q3owZTlWRUJIYTNyXzluVExZa3VaWjI2M003U05TMGRnR1VYemFZTjI3SGhzZkQzdDZ2VGc5enM4NnFicHN2aG9Cc3l1Yl9ERW9oWk8yNHJpbTBteWJwSUNOcUZRR2xlVnNmY2RZa3p4S0Z1SFh6SzRrMHJlTjFPU0p1VHVUa2dSTGJOd3dhaXg5dkdTb2VCdkxsZUxjQVZZYkZlajdpZ2JYWC1BVVVpd0c1NVJuaktkY3MyVjAyX0d4ZVMyb0k3OGJLIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=qs4a%2bpjpKRrGwpR0VuodClYfMJY%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
 #EXTINF:0 group-title="CHINA" tvg-logo="http://www.dens.tv/images/channel-logo/86.jpg", Shanghai Dragon
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CHINA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCv-kfPHBPRPf6ip2ItrCVmbF453Ifye4YaTLJf8_LA&s",Chinese Drama https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
@@ -289,6 +317,13 @@ http://210.210.155.35:80/uq2663/h/h123/live.m3u8
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg", Horison Sports
 http://210.210.155.35:80/uq2663/h/h127/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="SPORTS", TENNIS CHANNEL HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="SPORTS", Motorvision TV
+https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
+
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/scl/fi/w5sfhp5ox9lulnlr27m3w/Wsports.jpeg?rlkey=o4e51yi6aztg5phd0s2n63oea&dl=0", W sports
 http://210.210.155.37/uq2663/h/h26/index.m3u8
 
@@ -310,6 +345,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="SPORTS",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",ARENA HD
+https://z88.ubtvfans.com/live/rx3/1172/4215632da030da54fcfc87b822cf0bec/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ESPN 1
+https://z88.ubtvfans.com/live/rx3/1182/984c3ecef3210c1a2b6dc3d0270b28c9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ESPN 2
+https://z88.ubtvfans.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]TruePremier 5HD 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="ShareExt@Relax", [TH]True-SPORT HD
@@ -327,7 +370,7 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/162
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", EUROSport 2HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/110
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrsLbVP6ttPvpJUR6ZfLpnT4n3sTxBpP_zQ&usqp=CAU" group-title="##🇮🇩TIMNAS LIVE🇮🇩##",PIALA ASIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrsLbVP6ttPvpJUR6ZfLpnT4n3sTxBpP_zQ&usqp=CAU" group-title="SPORTS",PIALA ASIA
 http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="ShareExt@Relax", CCTV 5HD
@@ -344,28 +387,25 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 #EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]ASSP4
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
-#EXTINF:-1,Astro ASSP1-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
-#EXTINF:-1,Astro ASSP2-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1,Astro ASSP3-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1,Astro ASSP4-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
-#EXTINF:-1, SPORT HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
-#EXTINF:-1, SPORT 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
-#EXTINF:-1, SPORT 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
-#EXTINF:-1, SPORT 5SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
-#EXTINF:-1, SPORT 7SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
-#EXTINF:-1,Premier League HD4
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
-#EXTINF:-1,Premier League HD3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+
+#EXTINF:-1,MNC Sports
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157589
+#EXTINF:-1,MNC Sports 2
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298548
+#EXTINF:-1,MNC Sports 3
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298549
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
+https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 2 Australia
+https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 3 Australia
+https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 4 Australia
+https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BEK TV SPORT
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -403,10 +443,10 @@ https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/63
 #EXTINF:-1,SPO TV 2 MY
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/58443
 
-#EXTINF:-1 group-title="Sport",FIGHT
+#EXTINF:-1 group-title="SPORTS",FIGHT
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
-#EXTINF:-1 group-title="Sport",POKER TV
+#EXTINF:-1 group-title="SPORTS",POKER TV
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC2400019EF" tvg-id="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20230125T022558SQUARE.png_20230125022558.png" tvg-chno="1398" group-title="KIDS" , ZooMoo
@@ -469,7 +509,7 @@ http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-2.m3u8
 
 ==========================VOD FILM=========================
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="2023" tvg-logo="https://image.tmdb.org/t/p/w185/bQrNm5WIWUpCOwMbyz2PwbM8Lxp.jpg", Operation Fortune 2023
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD COLECTION" tvg-logo="https://image.tmdb.org/t/p/w185/bQrNm5WIWUpCOwMbyz2PwbM8Lxp.jpg", Operation Fortune 2023
 https://www.googleapis.com/drive/v3/files/1c4U2TXqhN0J9-xB8iPi-4YW98prvOgwx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD COLECTION" tvg-logo="http://pictures.my.id/images/3002.png", 300 : Rise of an Empire (2014)
