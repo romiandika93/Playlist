@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVEN",MOTO GP
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298570
-
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="", INDO VS GUNIEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
@@ -73,26 +70,26 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="Lokal",RCTI
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/13
 
-#EXTINF:-1 tvg-id="RCTI HD.id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="Lokal",RCTI 2
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157591
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Lokal",RCTI 2
+http://link.zozotv.xyz:8080/zozo/1234/1470
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="Lokal",MNC TV
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/10
 
-#EXTINF:-1 tvg-id="MNCTV HD.id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="Lokal",MNC TV 2
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165054
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Lokal",MNCTV 2
+http://link.zozotv.xyz:8080/zozo/1234/1469
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="Lokal",GTV
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/11
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="Lokal",GTV 2
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298535
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Lokal",GTV 2
+http://link.zozotv.xyz:8080/zozo/1234/1471
 
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="Lokal",iNews
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/12
 
-#EXTINF:-1 tvg-id="iNews HD.id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="Lokal",iNews 2
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157579
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Lokal",iNews 2
+http://link.zozotv.xyz:8080/zozo/1234/1537
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/batamtv.png" group-title="Lokal",Batam TV
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
@@ -196,7 +193,7 @@ http://210.210.155.37/x6bnqe/h/h194/index.m3u8
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",ROCK Entertainment
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+http://210.210.155.37/uq2663/h/h213/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Movies",TVN
 http://210.210.155.37/uq2663/h/h215/01.m3u8
@@ -205,7 +202,7 @@ http://210.210.155.37/uq2663/h/h215/01.m3u8
 http://210.210.155.37/uq2663/h/h214/01.m3u8
 
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
-http://210.210.155.37/dr9445/h/h15/index.m3u8
+http://210.210.155.37/uq2663/h/h218/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Movies",CelestialClassicMovies
 http://210.210.155.37/uq2663/h/h239/index.m3u8
@@ -214,10 +211,7 @@ http://210.210.155.37/uq2663/h/h239/index.m3u8
 http://210.210.155.37/uq2663/h/h240/index.m3u8
 
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Movies",Kix
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-id="Celestial Movie.id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/99.jpg""group-title="Movies",Celestial Movie
-http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+http://210.210.155.37/uq2663/h/h220/01.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movie.id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/99.jpg""group-title="Movies",Celestial Movie HD
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
@@ -248,6 +242,9 @@ https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="Malaysia",TVS
+http://link.zozotv.xyz:8080/zozo/1234/1439
+
 #EXTINF:-1 tvg-id="BeritaRTM.my" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="Malaysia",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -266,6 +263,9 @@ https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/137
 http://210.210.155.37/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jMAZXvKphwDe7ioPLCihzRVvm5VHt2oDlOqwQ14Aoc-A.png" group-title="Singapore",Channel U
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/138
+
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="CHINA",8TV
+http://link.zozotv.xyz:8080/zozo/1234/1436
 
 #EXTINF:0 group-title="CHINA" tvg-logo="http://www.dens.tv/images/channel-logo/86.jpg", Shanghai Dragon
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
@@ -308,6 +308,65 @@ https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/scl/fi/w5sfhp5ox9lulnlr27m3w/Wsports.jpeg?rlkey=o4e51yi6aztg5phd0s2n63oea&dl=0", W sports
 http://210.210.155.37/uq2663/h/h26/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="" group-title="SPORTS",FOX 502
+http://iptvkita.my.id:25461/direct/hometv/1876
+#EXTINF:-1 tvg-id="" tvg-name="FOX 504" tvg-logo="" group-title="SPORTS",FOX 504
+http://iptvkita.my.id:25461/direct/hometv/1877
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport HD
+http://iptvkita.my.id:25461/direct/hometv/2041
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Tennis HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Tennis HD
+http://iptvkita.my.id:25461/direct/hometv/2042
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Voetbal HD
+http://iptvkita.my.id:25461/direct/hometv/2043
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Golf HD
+http://iptvkita.my.id:25461/direct/hometv/2045
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Select HD
+http://iptvkita.my.id:25461/direct/hometv/2044
+#EXTINF:-1 tvg-id="" tvg-name="World fishing" tvg-logo="" group-title="SPORTS",World fishing
+http://iptvkita.my.id:25461/direct/hometv/2053
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 1
+http://iptvkita.my.id:25461/direct/hometv/1833
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 2
+http://iptvkita.my.id:25461/direct/hometv/1834
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 3
+http://iptvkita.my.id:25461/direct/hometv/1835
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 4
+http://iptvkita.my.id:25461/direct/hometv/1836
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 5" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 5
+http://iptvkita.my.id:25461/direct/hometv/1837
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL
+http://iptvkita.my.id:25461/direct/hometv/2029
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 1 HD
+http://iptvkita.my.id:25461/direct/hometv/1826
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 2 HD
+http://iptvkita.my.id:25461/direct/hometv/1827
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 3 HD
+http://iptvkita.my.id:25461/direct/hometv/1828
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 4 HD
+http://iptvkita.my.id:25461/direct/hometv/1829
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 5 HD
+http://iptvkita.my.id:25461/direct/hometv/1830
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 6 HD
+http://iptvkita.my.id:25461/direct/hometv/1831
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 7 HD
+http://iptvkita.my.id:25461/direct/hometv/1832
+#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 1 HD
+http://iptvkita.my.id:25461/direct/hometv/2056
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 2 HD
+http://iptvkita.my.id:25461/direct/hometv/2057
+#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 3 HD
+http://iptvkita.my.id:25461/direct/hometv/2058
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 4 HD
+http://iptvkita.my.id:25461/direct/hometv/2059
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="SPORTS",ELEVEN 1 HD
+http://iptvkita.my.id:25461/direct/hometv/1817
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="SPORTS",ELEVEN 2 HD
+http://iptvkita.my.id:25461/direct/hometv/1818
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="SPORTS",ELEVEN 3 HD
+http://iptvkita.my.id:25461/direct/hometv/1819
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="SPORTS",ELEVEN 4 HD
+http://iptvkita.my.id:25461/direct/hometv/2067
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="SPORTS", CANAL+
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/formula11.m3u8
@@ -417,6 +476,11 @@ http://202.21.104.6:88/sps-action/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORTS",Premier Sports 5 
 http://202.21.104.6:88/sps-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (MY)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="SPORTS",SPOTV (MY)
+http://link.zozotv.xyz:8080/zozo/1234/1606
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="SPORTS",SPOTV (IDN)
+http://link.zozotv.xyz:8080/zozo/1234/1607
 
 #EXTINF:-1,SPO TV 1 ID
 https://iptv.lancartech.co.id:443/romiandikaputra/Quattron1/66
