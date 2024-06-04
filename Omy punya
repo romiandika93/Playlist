@@ -240,6 +240,18 @@ http://210.210.155.37/uq2663/h/h240/index.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Movies",Kix
 http://210.210.155.37/uq2663/h/h220/01.m3u8
 
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Movies", HBO FAMILY
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Movies", HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO EXSTREAM" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Movies", HBO EXSTREAM
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO SIG" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Movies", HBO SG
+http://170.254.18.106/HBO_SIG/index.m3u8
+
 #EXTINF:-1 tvg-id="Celestial Movie.id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/99.jpg""group-title="Movies",Celestial Movie
 http://210.210.155.37/uq2663/h/h212/01.m3u8
 
