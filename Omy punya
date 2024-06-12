@@ -19,14 +19,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1149663930_b344100_sl
 #EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SCTV
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal", SCTV (Vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
-
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal",INDOSIAR (Vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdntl=exp=1717531519~acl=%2f*~id=36497211~data=hdntl~hmac=a431d83f9a50332ac5afca758167e4879a85db2dc404652d4347544e23ddf6f8
-
 #EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", INDOSIAR
 http://210.210.155.37/uq2663/h/h207/01.m3u8
 
@@ -51,6 +43,10 @@ http://210.210.155.37/uq2663/h/h201/01.m3u8
 
 #EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ANTV
 http://210.210.155.37/uq2663/h/h235/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal", ANTV TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/romiandika93/test/main/ANTV.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
