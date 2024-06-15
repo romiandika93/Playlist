@@ -18,9 +18,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRpl
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
 http://10b6c244.akadatel.com/iptv/69UCN4TQ9YBNM4/2499/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.ts
-
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", INDO VS GUNIEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
@@ -99,22 +96,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://melon-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV HD" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal", MNCTV HD
-http://iptv12k.com:35461/live/80236053010/645789/34156.m3u8
-
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",MNC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/8.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal", GTV HD
-http://iptv12k.com:35461/live/80236053010/645789/34103.m3u8
-
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://melon-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="INEWSTV HD" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" group-title="Lokal", INEWSTV HD
-http://iptv12k.com:35461/live/80236053010/645789/1799.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",iNews 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
