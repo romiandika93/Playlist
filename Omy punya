@@ -1,7 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SPOTV
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SPOTV BADMINTON
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", MOJI VOLY (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128.m3u8
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SKY SPORT MOTOGP (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/132.m3u8
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", CANAL SPORT MOTOGP (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/134.m3u8 
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SOCCER CHANEL
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
@@ -15,8 +30,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SPORTSTAR4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
-http://10b6c244.akadatel.com/iptv/69UCN4TQ9YBNM4/2499/index.m3u8
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/135.m3u8 
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/07.m3u8 
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
 https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
@@ -50,10 +72,6 @@ http://210.210.155.37/uq2663/h/h223/01.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", MOJI
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", MOJI Voly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
 
 #EXTINF:-1 group-title="Lokal" group-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -112,6 +130,11 @@ http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",MNC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/8.ts
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",GTV
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/09.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg",GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -496,6 +519,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PFL MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 1 (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 2 (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167.m3u8
+
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 3 (HOMETV)
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168.m3u8
+
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 4 (HOMETV)
+#EXTINF:-1 group-title="HOMETV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASTRO SUPERSPORT 4
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169.m3u8 
+
 #EXTINF:0 group-title="SPORTS", TSN 3
 http://45.41.213.34:70/TSN3/index.m3u8
 
@@ -556,14 +600,6 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGWJr4f/China-share-Ext-Group.jpg" group-title="ShareExt@Relax", CCTV 16HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]ASSP1
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]ASSP2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]ASSP3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", [Astro]ASSP4
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60.ts
 
 #EXTINF:-1 group-title="SPORTS",BEK TV SPORT
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
