@@ -27,18 +27,22 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SPORTSTAR2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SPORTSTAR4
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", EURO 2024 SPORTSTAR3 
+https://cempedak-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", EURO 2024 SPORTSTAR4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (HOMETV)
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8 
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (HOMETV)
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/07.m3u8 
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (LANCARTV)
+https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/13.m3u8
+
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (LANCARTV)
+https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/325039.m3u8
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
 https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
@@ -456,14 +460,14 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:0 group-title="CHINA" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg", CCTV-4
 http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U FHD
-http://iptv12k.com:35461/80236053010/645789/4033
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U(LANCARTV)
+https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/138.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/33002
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U SD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6676
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 FHD
-http://iptv12k.com:35461/80236053010/645789/4034
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8(LANCARTV)
+https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/137.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/33000
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 SD
