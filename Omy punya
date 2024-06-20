@@ -18,14 +18,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", EURO 2024 SPORTSTAR4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8?c
 
-#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (LANCARTV)
-https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/13.m3u8
+#EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024 (LANCARTV)
 https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/325039.m3u8
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-3-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
 
 #EXTINF:-1 group-title="LIVE EVEN" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", Euro 2024
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -514,25 +514,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PFL MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 1 (HOMETV)
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 1 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
 
-#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 2 (HOMETV)
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 2 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport2_norvegicus/playlist.m3u8
 
-#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 3 (HOMETV)
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 3 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport3_norvegicus/playlist.m3u8
 
-#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 4 (HOMETV)
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169.m3u8 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", ASTRO SUPERSPORT 4 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport4_norvegicus/playlist.m3u8
 
 #EXTINF:0 group-title="SPORTS", TSN 3
 http://45.41.213.34:70/TSN3/index.m3u8
