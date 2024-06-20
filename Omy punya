@@ -449,14 +449,10 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:0 group-title="CHINA" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg", CCTV-4
 http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U(LANCARTV)
-https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/138.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/33002
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U SD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6676
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8(LANCARTV)
-https://iptv.lancartech.co.id/live/apiv2group/2de3c475ab685c6e/137.m3u8
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/33000
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 SD
